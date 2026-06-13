@@ -1,0 +1,10 @@
+title       = "eai"
+baseURL     = "https://eleutherai-cli.tamnd.com/"
+description = "Browse EleutherAI research blog posts"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/eleutherai-cli"
